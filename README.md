@@ -1,6 +1,6 @@
 ![](https://github.com/Jaydeep2401/Jaydeep2401/blob/main/banner_image.png)
 ### Hi there 👋, 
-I am a Geeky Mind :man_technologist:, pursuing Bachelor of Computer Engineering :student:. My primary interest lies in Machine Learning Research and its Applications. 
+I am Computer Engineering Undergrad student :man_technologist:. My primary interest lies in Machine Learning Research and its Applications. 
 As a student, I have taken many courses, developed projects and learning new skills. And, I'm looking forward to put those skills and knowledge to good use.
 
 ---
