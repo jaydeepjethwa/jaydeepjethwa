@@ -1,4 +1,5 @@
-![](https://github.com/Jaydeep2401/Jaydeep2401/blob/main/banner_image.png)
+<img src="https://drive.google.com/uc?export=view&id=1RXIsM7LCoHWnNdXpyzlu61QVhPoTkucZ" width=100% height=100%>
+
 ### Hi there 👋, 
 I am Computer Engineering Undergrad student :man_technologist:. My primary interest lies in Machine Learning Research and its Applications. 
 As a student, I have taken many courses, developed projects and learning new skills. And, I'm looking forward to put those skills and knowledge to good use.
