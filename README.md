@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1v4ab3vLE2qlYTpAZx9_5pzczd4CNezYa" width=100% height=100%>
+<img src="https://drive.google.com/uc?export=view&id=1LPzxq4U_TauqC0tsFET5iREbBTI1STJE" width=100% height=100%>
 
 ### Hi there 👋, 
 I am Computer Engineering Undergrad student :man_technologist:. My primary interest lies in Machine Learning Research and its Applications. 
