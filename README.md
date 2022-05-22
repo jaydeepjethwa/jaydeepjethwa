@@ -9,8 +9,6 @@ As a student, I have taken many courses, developed projects and learning new ski
 <!--
 **Jaydeep2401/Jaydeep2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
 ### Cool Stuff About Me:
 
 - 🌱 I’m currently learning Natural Language Processing and Computer Vision.
