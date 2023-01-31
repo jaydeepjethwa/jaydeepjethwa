@@ -50,5 +50,6 @@ As a student, I have taken many courses, developed projects and learning new ski
 
 ---
 #### Thank you for visiting :smile:
+![Visitor Count](https://profile-counter.glitch.me/jaydeepjethwa/count.svg)
 
 ⭐️ From [Jaydeep](https://github.com/Jaydeep2401)
