@@ -49,6 +49,10 @@ As a student, I have taken many courses, developed projects and learning new ski
 </p>
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jaydeepjethwa&theme=dark)](https://git.io/streak-stats)
+
+---
 #### Thank you for visiting :smile:
 ![Visitor Count](https://profile-counter.glitch.me/jaydeepjethwa/count.svg)
 
