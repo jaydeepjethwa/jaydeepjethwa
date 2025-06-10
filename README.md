@@ -9,7 +9,7 @@ I am a passionate Software Developer :man_technologist: skilled at tackling comp
 
 ### Cool Stuff About Me:
 
-- 🌱 I’m currently exploring Backend Development, Machine Learning and Web3.
+- 🌱 I’m currently exploring Deep Learning & Generative AI.
 - 👯 I’m looking to collaborate on building impactful solutions through tech.
 - 💬 Ask me about Latest Technologies 👨‍💻, Gaming 🎮 and Cricket 🏏.
 - 📫 How to reach me: jaydeepjethwa2401@gmail.com
