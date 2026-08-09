@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaydeep Jethwa</h1>
 <h3 align="center">Full Stack AI Developer</h3>
-I am a passionate Software Developer :man_technologist: skilled at tackling complex problems and building impactful solutions. Currently working @ Tata Consultancy Services as a Product Engineer.
+I am a passionate Software Developer :man_technologist: skilled at tackling complex problems and building impactful solutions. Currently working @ TCS Research as a Senior Product Engineer.
 
 ---
 
